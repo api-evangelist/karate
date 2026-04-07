@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Testing
   - Functional Testing
+  - Testing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/karate/refs/heads/main/apis.yml
 created: '2026-03-25'
@@ -19,8 +19,8 @@ apis:
       Karate is an open source API test automation framework combining API testing, mocks, and performance testing in a single tool using BDD syntax.
     humanURL: https://karatelabs.github.io/karate/
     tags:
-      - Testing
       - Functional Testing
+      - Testing
     properties:
       - type: Documentation
         url: https://karatelabs.github.io/karate/
