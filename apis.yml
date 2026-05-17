@@ -24,14 +24,14 @@ apis:
     properties:
       - type: Documentation
         url: https://karatelabs.github.io/karate/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/karatelabs/karate
 common:
   - type: Website
     url: https://karatelabs.github.io/karate/
   - type: Documentation
     url: https://karatelabs.github.io/karate/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/karatelabs/karate
 maintainers:
   - FN: Kin Lane
