@@ -39,6 +39,19 @@ apis:
       - type: GitHubRepository
         url: https://github.com/karatelabs/karate
 common:
+  - type: IssueTracker
+    url: https://github.com/karatelabs/karate/issues
+  - type: Releases
+    url: https://github.com/karatelabs/karate/releases
+  - type: SecurityPolicy
+    url: https://github.com/karatelabs/karate/blob/main/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/karatelabs/karate/blob/main/.github/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/karatelabs/karate/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/karatelabs/karate/blob/main/LICENSE
   - type: Website
     url: https://karatelabs.github.io/karate/
   - type: Documentation
