@@ -66,18 +66,95 @@
 
 Karate is an open source API test automation framework combining API testing, mocks, and performance testing in a single tool using BDD syntax.
 
-## APIs
+**Areas:** Functional Testing · Testing
 
-- [Karate](https://karatelabs.github.io/karate/) - Karate is an open source API test automation framework combining API testing, mocks, and performance testing in a single tool using BDD syntax.
+## Karate on APIs.io
 
-## Common Properties
+Everything profiled for Karate is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/karate/](https://apis.io/providers/karate/)** — or go straight to one of the APIs or properties below.
 
-| Property | URL |
-|----------|-----|
-| Website | https://karatelabs.github.io/karate/ |
-| Documentation | https://karatelabs.github.io/karate/ |
-| GitHub | https://github.com/karatelabs/karate |
+### APIs (1)
 
-## Maintainers
+- [Karate](https://apis.io/apis/karate/karate/) — Karate is an open source API test automation framework combining API testing, mocks, and performance testing in a single tool using BDD syntax.
 
-- **Kin Lane** - kin@apievangelist.com
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Karate Plans Pricing](https://apis.io/plans/karate/karate-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Karate Rate Limits](https://apis.io/rate-limits/karate/karate-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Karate Finops](https://apis.io/finops/karate/karate-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://karatelabs.github.io/karate/)
+- [Documentation](https://karatelabs.github.io/karate/)
+- [GitHub](https://github.com/karatelabs/karate)
+
+## API Evangelist rating
+
+**Kin Score 17.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/karate/](https://apis.io/providers/karate/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Karate: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/karate/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
